@@ -10,3 +10,7 @@
  INFO 2023-04-18 15:56:17,061 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/Testontology/FragmentTest/CompetencyQuestionVerificationTest/CQTestCase/CQ002.ttl
  INFO 2023-04-18 15:56:18,517 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/Testontology/FragmentTest/CompetencyQuestionVerificationTest/CQTestCase/CQ003.ttl
  INFO 2023-04-18 15:56:20,202 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/Testontology/FragmentTest/CompetencyQuestionVerificationTest/CQTestCase/CQ003.ttl
+ INFO 2023-04-18 16:06:36,856 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/EP001.ttl
+ INFO 2023-04-18 16:06:38,690 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/EP001.ttl
+ INFO 2023-04-18 16:06:40,231 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/Testontology/FragmentTest/ErrorProvocationTest/EPTestCase/EP001.ttl
+ INFO 2023-04-18 16:06:42,903 [main] (OWLUnit.java:89) - Test case URI https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/Testontology/FragmentTest/ErrorProvocationTest/EPTestCase/EP001.ttl
