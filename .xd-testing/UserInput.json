@@ -29,6 +29,11 @@
           "statusNotes": "Executed"
         }
       ]
+    },
+    {
+      "name": "FragmentTest",
+      "ontologyName": "Testontology",
+      "fileName": "Testontology/FragmentTest/mp.owl"
     }
   ]
 }
