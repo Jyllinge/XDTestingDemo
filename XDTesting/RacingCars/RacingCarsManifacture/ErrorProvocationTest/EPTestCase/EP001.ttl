@@ -1,7 +1,7 @@
 @prefix owlunit: <https://w3id.org/OWLunit/ontology/> .
-@prefix ns: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/.xd-testing/RacingCars/RacingCarsManifacture/ferrari.owl> .
-@prefix td: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPDataSet/> .
-@prefix tc: <https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/> .
+@prefix ns: <https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/.xd-testing/RacingCars/RacingCarsManifacture/ferrari.owl> .
+@prefix td: <https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPDataSet/> .
+@prefix tc: <https://raw.githubusercontent.com/Jyllinge/XDTestingDemo/main/XDTesting/RacingCars/RacingCarsManifacture/ErrorProvocationTest/EPTestCase/> .
 
 tc:EP001.ttl a owlunit:ErrorProvocation ;
 	owlunit:hasInputData td:EP001TD.ttl ;
